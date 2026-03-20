@@ -1,0 +1,5 @@
+anaconda_projects/
+.ipynb_checkpoints/
+*.db
+.vscode/
+__pycache__/
